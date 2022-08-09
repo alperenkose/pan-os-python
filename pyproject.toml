@@ -54,6 +54,7 @@ sphinx-autobuild = {version = "^0.7.1", python = "^3.5"}
 bandit = "^1.6.2"
 isort = "^4.3.21"
 m2r = "^0.2.1"
+mypy = {version = "^0.971", python = ">=3.6"}
 
 [tool.dephell.main]
 # read from poetry file

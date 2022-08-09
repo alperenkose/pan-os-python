@@ -15,7 +15,7 @@
   "python.linting.banditArgs": ["-r", "--ini .bandit"],
   "python.linting.flake8Enabled": true,
   "python.linting.flake8CategorySeverity.E": "Warning",
-  "python.linting.mypyEnabled": false,
+  "python.linting.mypyEnabled": true,
   "python.formatting.provider": "black",
   "editor.formatOnSave": true,
   "restructuredtext.confPath": "${workspaceFolder}/docs",
